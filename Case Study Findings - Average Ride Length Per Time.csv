@@ -1,0 +1,8 @@
+SUM of avg_ride_length,time_of_day,,,
+member_casual,afternoon,evening,morning,night
+casual,23.06855625,19.50159271,20.09349031,18.14476901
+member,12.15008576,12.40840788,11.11966967,11.68988523
+,,,,
+,Morning,Afternoon,Evening,Night
+casual,20.09349031,23.06855625,19.50159271,18.14476901
+member,11.11966967,12.15008576,12.40840788,11.68988523
