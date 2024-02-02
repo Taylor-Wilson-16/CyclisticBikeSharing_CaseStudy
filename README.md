@@ -1,7 +1,7 @@
 # Capstone Project for Google Data Analytics Certification 
 
 ## Business Task: 
-	The business goal is to increase the number of annual Cyclistic bike-share memberships, as annual memberships are the most profitable type of participation. In order to do this, discern how annual members and casual riders use Cyclistic bikes differently. Use this insight to develop recommendations on how to influence casual riders to become annual members. 
+The business goal is to increase the number of annual Cyclistic bike-share memberships, as annual memberships are the most profitable type of participation. In order to do this, discern how annual members and casual riders use Cyclistic bikes differently. Use this insight to develop recommendations on how to influence casual riders to become annual members. 
 ## Background Information:
 - Cyclistic is a bike-sharing company based in Chicago. The company launched in 2016, and has 5,824 bicycles and 692 docking stations.
 - Up until now, Cyclistic’s marketing strategy has been building general awareness and appealing to broad customer segments.
