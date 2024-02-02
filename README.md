@@ -9,7 +9,6 @@ The business goal is to increase the number of annual Cyclistic bike-share membe
 - Up until now, Cyclistic’s marketing strategy has been building general awareness and appealing to broad customer segments.
 - Casual riders are defined as riders who’ve purchased single-ride or full-day passes. Cyclistic members are riders who’ve purchased an annual membership.
 - Cyclistic offers a variety of bike types making their bike-share service more inclusive. 
-- Cyclistic users are more likely to ride for leisure, but about 30% use the bikes to commute to work each day.
 
 ## Data Sources: 
 The data has been made available by Motivate International Inc. under this license. Copies of the original datasets are on stored in Google Drive and have been uploaded to Google BigQuery for analysis. The datasets are organized by month, beginning in January 2023 and ending in December 2023. Six of the twelve datasets were split into smaller datasets in order to be uploaded to BigQuery.
