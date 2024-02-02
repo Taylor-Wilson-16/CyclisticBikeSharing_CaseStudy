@@ -106,7 +106,7 @@ ORDER BY ride_length DESC # Sort by ride_length
 ### Check that data types are correct
 ### Check that ended_at - started_at = ride_length
 
-### Limitation: There are 6.417 rides that were longer than 24 hours.
+### Limitation: There are 6,417 rides that were longer than 24 hours.
 ### Remove rides > 24 hours 
 CREATE OR REPLACE TABLE `casestudy1-sql.2023_DivvyTripData.total_DivvyData_2023_cleaned` AS (
 SELECT *
