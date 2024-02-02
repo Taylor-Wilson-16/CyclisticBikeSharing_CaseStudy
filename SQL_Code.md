@@ -185,6 +185,15 @@ SELECT
 FROM `casestudy1-sql.2023_DivvyTripData.total_DivvyData_2023_cleaned`
 GROUP BY member_casual, time_of_day
 
+# Count rides per time of day and day of week
+SELECT
+  COUNT(DISTINCT ride_id) AS num_of_rides,
+  time_of_day,
+  day_of_week,
+  member_casual 
+FROM `casestudy1-sql.2023_DivvyTripData.total_DivvyData_2023_cleaned`
+GROUP BY member_casual, time_of_day, day_of_week
+
 # Average ride length per time of day
 SELECT 
   AVG(ride_length) as avg_ride_length,
